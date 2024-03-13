@@ -10,5 +10,5 @@ Program ini mempunyai 4 variabel data: NIM (String, TextField), Nama (String, Te
 Pertama-tama, run Menu.java untuk menjalankan program. Setelah itu, maka akan muncul tampilan window Data Mahasiswa yang berisi form data dan 20 data mahasiswa di bawahnya. Dalam form ada beberapa opsi yang bisa digunakan: Add (menambah data) dan Cancel (membatalkan pilihan). Jika user mengklik salah satu data maka akan muncul dua opsi tambahan: Update (mengubah data) dan Delete (menghapus data). User bisa melakukan semua query tanpa ada batasan sampai user menutup program.
 
 ### Dokumentasi
-Video dari proses berjalannya program.<br>
+Video dari proses berjalannya program:<br>
 https://github.com/TheRealF6/LP5DPBO2024C1/assets/119662753/c673d4fc-0fe6-4005-9c8b-b9a7266516f8
